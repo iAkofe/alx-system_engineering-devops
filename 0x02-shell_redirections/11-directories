@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lRa ./test_dir ./test_dir/photos /test_dir/rep.gif
+ls -lRa .
